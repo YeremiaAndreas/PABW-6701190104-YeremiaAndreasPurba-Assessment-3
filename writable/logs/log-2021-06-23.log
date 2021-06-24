@@ -1,0 +1,6 @@
+ERROR - 2021-06-23 22:09:30 --> Error connecting to the database: Unknown database 'ci4ass3'
+ERROR - 2021-06-23 22:11:12 --> Error connecting to the database: Unknown database 'ci4ass3'
+ERROR - 2021-06-23 22:17:27 --> Error connecting to the database: Unknown database 'ci4ass3'
+CRITICAL - 2021-06-23 22:21:17 --> Class App\Database\Migrations\Barang contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (CodeIgniter\Database\Migration::down)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
